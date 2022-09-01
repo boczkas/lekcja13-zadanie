@@ -14,6 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
 //        Napraw kod, tak aby na konsoli pojawiło się:
+//        !!! Nie modyfikuj importów !!!
 
 //        Dzien dobry, jestem nauczycielem o imieniu Lucyna
 //        Siemaneczko! Jestem Przemek
